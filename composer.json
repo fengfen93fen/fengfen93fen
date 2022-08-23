@@ -1,0 +1,16 @@
+{
+    "name": "nba/cp3",
+    "description": "nba第一控卫",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Nba\\Cp3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kkk"
+        }
+    ],
+    "require": {}
+}
